@@ -22,6 +22,24 @@ The proposed framework provides:
 * Recursive feasibility and closed-loop stability
 * Robust platoon control under communication switching and disturbances
 
+<p align="center">
+  <img src="1.png" width="850">
+</p>
+<p align="center">
+  <img src="2.png" width="450">
+</p>
+<p align="center">
+  <img src="3.png" width="850">
+</p>
+<p align="center">
+  <img src="4.png" width="850">
+</p>
+
+
+
+
+
+
 ## Code
 
 The MATLAB simulation contains the following main files:
